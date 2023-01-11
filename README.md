@@ -2,17 +2,22 @@
 platform for buidling ,running,and shipping applications.
 
 CONTAINER
+
 1)allow running multiple apps in isolation
+
 2)are lightweight
+
 3)use OS of the host
+
 4)start quickly
+
 5)need less hardware resources
 
-docker architecture
+**docker architecture**
 
-*client-server architecture
+client-server architecture
 
-Installing Docker
+**Installing Docker**
 #docker version
  develoment wo   rkflow
   
